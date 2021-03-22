@@ -3584,6 +3584,10 @@ input, select, textarea {
 		text-align: center;
 	}
 
+		#banner img {
+			border-radius: 50%;
+		}
+
 		#banner h2 {
 			-moz-transform: scale(1);
 			-webkit-transform: scale(1);
