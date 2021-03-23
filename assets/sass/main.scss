@@ -1588,10 +1588,6 @@
 		position: relative;
 		text-align: center;
 
-		div img{
-			border-radius: 50%;
-		}
-
 		h2 {
 			@include vendor('transform', 'scale(1)');
 			@include vendor('transition', ('transform 0.5s ease', 'opacity 0.5s ease'));
